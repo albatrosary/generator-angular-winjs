@@ -22,7 +22,7 @@ yo angular-winjs
 npm start
 ```
 
-Launch the browser
+Open browser
 
 ## Getting To Know Yeoman
 
